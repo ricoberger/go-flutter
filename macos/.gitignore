@@ -1,0 +1,14 @@
+# Flutter-related
+**/Flutter/ephemeral/
+**/Pods/
+
+# Xcode-related
+**/dgph
+**/xcuserdata/
+
+# Go build
+desktop.arm64.dylib
+desktop.arm64.h
+desktop.x64.dylib
+desktop.x64.h
+desktop.dylib
